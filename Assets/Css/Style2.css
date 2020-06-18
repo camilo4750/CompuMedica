@@ -1,0 +1,76 @@
+
+/*FOOTER*/
+#footer{
+    align-self: flex-end;
+    width: 100%;
+    text-align: center;
+    padding-top:10px;
+    padding-bottom: 5px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-top: 4px solid #fd7e14;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+
+.mt-8{
+    margin-top: 8rem !important;
+}
+.ml-8{
+    margin-left: 8rem !important;
+}
+
+.TituloP{
+    font-size: 32px;
+    color: #444;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 2px #ccc;
+    font-family: "fajala";
+}
+
+.Titulo{
+    font-size: 20px;
+    color: #fd7e14;
+    text-shadow: 1px 1px 2px #ccc;
+    letter-spacing: 1px;
+    font-family: "fajala";
+    margin-top: 25px;
+}
+.Texto{
+    margin-top: 8px;
+}
+
+.fecha{
+    color: #4e4e4e;
+    margin-top:5px;
+    font-size: 14px;
+}
+
+
+.dropdown-menu{
+    background: rgba(0, 0, 0, 0.8);
+}
+.dropdown-menu a{
+    font-size: 16px;
+    color: rgb(235, 121, 14 );
+    font-family: 'Patua One', cursive;
+}
+
+
+/*index notas*/
+.totales:hover {
+    box-shadow:  0px 10px 30px rgba(57, 56, 61, 0.7);
+}
+
+.color1{
+    background: rgba(255, 123, 0, 0.8);
+}
+
+.color2{
+    background: rgba(255, 255, 255,);
+}
+
+.color3{
+    background: rgba(0, 0, 0, 0.8);
+}
